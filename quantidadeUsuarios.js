@@ -50,6 +50,7 @@ async function quantidadeUsuariosPorRede(){
             }
         }
     }
+    quantidadeUsuariosPorRede()
 
     const grafico = document.createElement('div')
     grafico.className = 'grafico'
